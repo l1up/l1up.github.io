@@ -10,7 +10,6 @@ h2 {
 .carousel {
     margin: 0 auto;
     max-width: 50%;
-
 }
 
 .carousel-control-prev-icon, .carousel-control-next-icon {
@@ -22,6 +21,7 @@ h2 {
 }
 
 .standalone {
+    display: block;
     text-align: center;
     margin: 0 auto;
     max-width: 100%;
